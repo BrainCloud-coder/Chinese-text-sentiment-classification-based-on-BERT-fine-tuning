@@ -4,16 +4,16 @@
 
 ## 文件介绍
 
-`ChnSentiCorp.txt`即为数据集
+ChnSentiCorp.txt：数据集
 
-`get_data.py`用于读取数据
+get_data.py：用于读取数据
 
-`models.py`即为模型相关代码
+models.py：模型相关代码
 
-`train.py`用于训练模型
+train.py：用于训练模型
 
 ## 快速开始
 
-运行`train.py`
+运行train.py
 
-输入命令：`tensorboard --logdir=./runs`以查看训练结果。
+命令行输入：`tensorboard --logdir=./runs`以查看训练结果。
